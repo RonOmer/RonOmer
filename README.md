@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Hi 👋, I'm Ron Omer</h1>
 
 <h3 align="center">
@@ -25,23 +24,25 @@ Backend • Full Stack • APIs • Databases • Automation
 
 ## 🛠️ Tech Stack
 
-### Languages
+<h3 align="center">Languages</h3>
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=cs,python,java,c,js,html,css" />
 </p>
 
-### Technologies & Tools
+<h3 align="center">Technologies & Tools</h3>
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=dotnet,flask,git,github,linux,vscode,visualstudio" />
 </p>
 
-**Backend:** C# · ASP.NET Core · Python · Flask · REST APIs  
-**Frontend:** JavaScript · HTML · CSS · jQuery  
-**Databases:** SQL · SQL Server · SQLite · SQLAlchemy  
-**AI / Data:** Machine Learning · NLP · LLMs · SHAP  
-**Concepts:** OOP · Client-Server · Algorithms · Data Structures · Operating Systems
+<p align="center">
+  <b>Backend:</b> C# · ASP.NET Core · Python · Flask · REST APIs<br>
+  <b>Frontend:</b> JavaScript · HTML · CSS · jQuery<br>
+  <b>Databases:</b> SQL · SQL Server · SQLite · SQLAlchemy<br>
+  <b>AI / Data:</b> Machine Learning · NLP · LLMs · SHAP<br>
+  <b>Concepts:</b> OOP · Client-Server · Algorithms · Data Structures · Operating Systems
+</p>
 
 ---
 
@@ -49,12 +50,12 @@ Backend • Full Stack • APIs • Databases • Automation
 
 | Project | Description | Tech |
 |---|---|---|
-| 🎮 **Steam Games Library** | Full-stack game store and personal library with authentication, filtering and recommendations | C#, ASP.NET Core, JavaScript, REST API |
-| 🌍 **Countries Platform** | Full-stack country exploration system with users, preferences, sharing, quizzes and admin tools | C#, ASP.NET Core, SQL Server, JavaScript |
-| 🤖 **Asthma & Air Pollution Research** | ML research combining clinical, pollution and NLP-derived features with explainable AI | Python, ML, NLP, LLMs, SHAP |
-| ⚙️ **Process Scheduler Simulation** | CPU scheduling simulator implementing FCFS, SJF, Priority and Round Robin | C++, Algorithms, OS |
-| 📄 **Bill Splitting App** | Receipt-processing application using OCR to extract and split expenses | Python, Streamlit, OCR |
-| 🎬 **Movie Voting System** | Console-based movie voting and recommendation system with persistent storage | C, File I/O |
+| [🎮 **Steam Games Library**](https://github.com/RonOmer/Steam) | Full-stack game store and personal library with authentication, filtering and recommendations | C#, ASP.NET Core, JavaScript, REST API |
+| [🌍 **Countries Platform**](https://github.com/gil3011/countries-fullstack) | Full-stack country exploration system with users, preferences, sharing, quizzes and admin tools | C#, ASP.NET Core, SQL Server, JavaScript |
+| [🤖 **Asthma & Air Pollution Research**](https://github.com/gil3011/final_proj) | ML research combining clinical, pollution and NLP-derived features with explainable AI | Python, ML, NLP, LLMs, SHAP |
+| [⚙️ **Process Scheduler Simulation**](https://github.com/RonOmer/ProcessScheduler) | CPU scheduling simulator implementing FCFS, SJF, Priority and Round Robin | C++, Algorithms, Operating Systems |
+| [📄 **Bill Splitting App**](https://github.com/gil3011/bill_spliting_app) | Receipt-processing application using OCR to extract and split expenses | Python, Streamlit, OCR |
+| [🎬 **Movie Voting System**](https://github.com/RonOmer/Movies-Reviews) | Console-based movie voting and recommendation system with persistent storage | C, File I/O |
 
 ---
 
@@ -86,4 +87,3 @@ Backend • Full Stack • APIs • Databases • Automation
 <p align="center">
   <i>Thanks for visiting my profile! 🚀</i>
 </p>
-```
